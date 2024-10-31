@@ -89,8 +89,8 @@ Add protocol support for Telnet and HTTP services.
 Integrate with SIEM tools like Splunk for comprehensive threat intelligence.
 Automate response mechanisms with tools like Fail2Ban.
 
-License
+## License
 This project is licensed under the MIT License. See LICENSE for details.
 
-Contact
+## Contact
 For questions or collaboration, contact justinlew1000@gmail.com
