@@ -10,7 +10,7 @@ Showcase practical cybersecurity skills, including deployment, monitoring, and d
 Demonstrate continuous learning by planning future enhancements.
 
 ## Key Features
-Low-Interaction Honeypot: Simulates an SSH service without giving full access to the system.
+Medium-Interaction Honeypot: Simulates an SSH service without giving full access to the system.
 Detailed Logging: Captures login attempts, commands entered, and connection details.
 Email Alerts: Sends real-time alerts for specific attack patterns.
 Data Visualization: Visualizes attack data with Python scripts and integration options with tools like Kibana.
