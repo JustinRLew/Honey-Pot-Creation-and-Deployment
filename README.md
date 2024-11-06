@@ -1,5 +1,7 @@
 ## Cowrie SSH Honeypot Project
 
+https://www.youtube.com/watch?v=SsDzZr9zwlI
+
 ## Overview
 This project involves setting up a medium-interaction SSH honeypot using Cowrie to detect and analyze unauthorized login attempts, particularly brute-force attacks. The honeypot logs attacker behavior and provides insights into attack methods, which are valuable for understanding threat landscapes and enhancing cybersecurity defenses.
 
