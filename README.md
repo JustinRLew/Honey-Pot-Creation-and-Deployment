@@ -7,21 +7,30 @@ This project involves setting up a medium-interaction SSH honeypot using Cowrie 
 
 ## Project Goals
 Monitor and log unauthorized SSH access attempts.
+
 Analyze attacker behavior and extract meaningful insights.
+
 Showcase practical cybersecurity skills, including deployment, monitoring, and data analysis.
+
 Demonstrate continuous learning by planning future enhancements.
 
 ## Key Features
 Medium-Interaction Honeypot: Simulates an SSH service without giving full access to the system.
+
 Detailed Logging: Captures login attempts, commands entered, and connection details.
+
 Email Alerts: Sends real-time alerts for specific attack patterns.
+
 Data Visualization: Visualizes attack data with Python scripts and integration options with tools like Kibana.
+
 Scalability: Plans to expand to multi-region honeypots and integrate with SIEM tools.
 
 ## Project Setup
 Prerequisites
 Google Cloud Platform (GCP) account for VPS setup.
+
 Ubuntu 22.04 LTS as the operating system.
+
 Basic knowledge of SSH and Linux commands.
 
 Step 1: Create a Free VPS on Google Cloud Platform
@@ -80,14 +89,16 @@ sudo apt-get install logrotate -y
 
 ## Alerts and Automation
 Email Alerts: Set up real-time alerts using sendmail and a custom script to monitor log entries.
+
 Automated Reports: Use Python and cron jobs to generate weekly summaries of attacker activity.
+
 Data Analysis and Visualization
-Python Scripts: Visualize attack trends with matplotlib and pandas.
-Integration with Kibana: Forward logs to Kibana for interactive dashboards and deeper analysis.
 
 ## Future Enhancements
 Connect to visualization platforms like Splunk and Kibana
+
 Deploy multi-region honeypots to compare geographic attack patterns.
+
 Automate response mechanisms with tools like Fail2Ban.
 
 ## License
