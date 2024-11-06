@@ -86,9 +86,8 @@ Python Scripts: Visualize attack trends with matplotlib and pandas.
 Integration with Kibana: Forward logs to Kibana for interactive dashboards and deeper analysis.
 
 ## Future Enhancements
+Connect to visualization platforms like Splunk and Kibana
 Deploy multi-region honeypots to compare geographic attack patterns.
-Add protocol support for Telnet and HTTP services.
-Integrate with SIEM tools like Splunk for comprehensive threat intelligence.
 Automate response mechanisms with tools like Fail2Ban.
 
 ## License
